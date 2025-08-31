@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api";
+const API_URL = "https://horodates.onrender.com/api";
 
 // Fonction pour récupérer le token
 function getToken() {
